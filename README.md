@@ -1,11 +1,11 @@
-# Oi 👋 Eu sou o Matheus Souza Pinto  
+# Olá sou o Matheus Souza Pinto  
 
 Estudante | Desenvolvedor Fullstack | Entusiasta em IA & Big Data  
 
 ---
 
 ## 📌 Sobre mim  
-- 🔹 Tenho 21 anos  
+- 🔹 Tenho 22 anos  
 - 📍 Sou de Mococa, SP  
 - 🎓 Estudo Ciência da Computação - Unifeob
 - 💻 Técnico em Informática pelo Etec João Baptista de Lima Figuereido  
@@ -27,11 +27,8 @@ Estudante | Desenvolvedor Fullstack | Entusiasta em IA & Big Data
 ## 📬 Entre em contato comigo  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-pinto78)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomatheussouza80@hotmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatomatheussouza80@hotmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheuswbz78)  
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheus-souza-pinto/badges#credly)  
 
 ---
-
-<div align="center">  
-  <img src="https://i.pinimg.com/originals/7f/bc/2d/7fbc2d8a6a1283a2ef8bae0586310fc2.png" width="400px">
-</div>

@@ -24,14 +24,6 @@ Estudante | Desenvolvedor Fullstack | Entusiasta em IA & Big Data
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
-
----
-
 ## 📬 Entre em contato comigo  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/matheus-souza-pinto78))  

@@ -1,13 +1,13 @@
 # Prazer, sou Matheus Souza Pinto
 
-🎓 Estudante | 💻 Desenvolvedor Full Stack | 🤖 Entusiasta em Big Data  
+💻 Desenvolvedor Full Stack | 🤖 Entusiasta em Big Data  
 
 ---
 
 ## 📌 Sobre mim  
 - 🔹 Tenho **22 anos**  
 - 📍 Sou de **Mococa, SP**  
-- 🎓 Estudo **Ciência da Computação - UNIFEOB**  
+- 🎓 Formado em Ciência da Computação | 
 - 💻 **Técnico em Informática** pela ETEC João Baptista de Lima Figueiredo  
 
 ---
@@ -27,17 +27,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-
-![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheuswbz78&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuswbz78&layout=compact&theme=radical)
 
 </div>
 

@@ -1,44 +1,96 @@
-# Prazer, sou Matheus Souza Pinto
+<h1 align="center">Matheus Souza Pinto</h1>
 
-💻 Desenvolvedor Full Stack | 🤖 Entusiasta em Big Data  
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong> • <strong>Ciência da Computação</strong> • <strong>Entusiasta em Big Data</strong>
+</p>
 
----
-
-## 📌 Sobre mim  
-- 🔹 Tenho **22 anos**  
-- 📍 Sou de **Mococa, SP**  
-- 🎓 Formado em Ciência da Computação | 
-- 💻 **Técnico em Informática** pela ETEC João Baptista de Lima Figueiredo  
+<p align="center">
+  Construindo soluções web com foco em performance, escalabilidade e experiência do usuário.
+</p>
 
 ---
 
-## 🚀 Habilidades  
+## 👨‍💻 Sobre mim
 
-<div align="center">
+Sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções que resolvem problemas reais.  
+Tenho formação em **Ciência da Computação** e também sou **Técnico em Informática**, com interesse em desenvolvimento web, dados e arquitetura de sistemas.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+Busco evoluir continuamente como profissional, aprimorando habilidades técnicas e contribuindo em projetos que gerem impacto de verdade.
 
-</div>
+- **Localização:** Mococa, São Paulo - Brasil  
+- **Formação:** Bacharel em Ciência da Computação  
+- **Técnico em Informática:** ETEC João Baptista de Lima Figueiredo  
+- **Interesses:** Desenvolvimento Full Stack, Big Data, APIs, bancos de dados e cloud  
 
 ---
 
-## 📬 Entre em contato comigo  
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+### Front-end
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-souza-pinto78)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.pinto@sou.unifeob.edu.br)
-[![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matheuswbz78)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/matheus-souza-pinto/badges#credly)
+### Back-end
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-</div>
+### Banco de Dados e Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+## 📌 Objetivo Profissional
+
+Tenho interesse em atuar em projetos que envolvam:
+
+- desenvolvimento de aplicações web modernas
+- criação e integração de APIs
+- modelagem e manipulação de dados
+- soluções escaláveis com foco em performance
+- evolução constante de produtos e experiência do usuário
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheuswbz78&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuswbz78&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-souza-pinto78" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheus.pinto@sou.unifeob.edu.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Matheuswbz78" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/matheus-souza-pinto/badges#credly" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Sempre em busca de evolução, novos desafios e oportunidades para construir algo relevante com tecnologia.</i>
+</p>

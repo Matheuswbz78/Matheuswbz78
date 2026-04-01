@@ -4,10 +4,6 @@
   <strong>Desenvolvedor Full Stack</strong> • <strong>Ciência da Computação</strong> • <strong>Entusiasta em Big Data</strong>
 </p>
 
-<p align="center">
-  Construindo soluções web com foco em performance, escalabilidade e experiência do usuário.
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
@@ -71,7 +67,7 @@ Tenho interesse em atuar em projetos que envolvam desenvolvimento web, APIs, dad
 
 ## 📬 Contato
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/matheus-souza-pinto78" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

@@ -52,19 +52,6 @@ Tenho interesse em atuar em projetos que envolvam desenvolvimento web, APIs, dad
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheuswbz78&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" />
-</p>
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheuswbz78&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ## 📬 Contato
 

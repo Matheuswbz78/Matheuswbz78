@@ -1,5 +1,3 @@
-
-Fala zé bom demais ? Pega esse meu repositório, melhore o deisgn dele, coloque coisas que aprendi e mais atuais também além de melhorar a identidade dele e as linguagens de programação e skills por favor. Deixe ele mais moderno e com cara de desenvolvedor 
 <h1 align="center">Matheus Souza Pinto</h1>
 
 <p align="center">
